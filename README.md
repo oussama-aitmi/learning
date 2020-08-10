@@ -25,8 +25,8 @@ Run docker and connect to container
 Run the command below:
 
 <pre>
-git clone https://github.com/oussama-aitmi/management
-cd management
+git clone https://github.com/oussama-aitmi/learning
+cd learning
 composer install
 (if you not using docker then run the local server) php -S localhost:8000 -t public or (symfony server:start)
 </pre>
@@ -85,8 +85,8 @@ Execute TestUnit:
 
 <pre>
 {
-  "email":"convoi1@management.com", 
-  "password": "management"
+  "email":"convoi1@learning.com", 
+  "password": "learning"
 }
 </pre>
 
