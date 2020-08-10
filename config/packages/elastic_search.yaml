@@ -1,0 +1,5 @@
+parameters:
+  elastic_search_client_config:
+    host : 'http://localhost:9200'
+    port : '9000'
+    type : 'management'
